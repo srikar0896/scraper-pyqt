@@ -1,0 +1,988 @@
+
+----------scraping https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.co.in/%3Fgfe_rd%3Dcr%26ei%3D9DB9V7rXNcmL8Qe82JKYBw----------------
+
+  Need help?
+   --	[https://accounts.google.com/RecoverAccount?continue=http%3A%2F%2Fwww.google.co.in%2F%3Fgfe_rd%3Dcr%26ei%3D9DB9V7rXNcmL8Qe82JKYBw&ignoreShadow=0&hl=en]
+
+  Sign in with a different account
+   --	[https://accounts.google.com/AccountChooser?continue=http%3A%2F%2Fwww.google.co.in%2F%3Fgfe_rd%3Dcr%26ei%3D9DB9V7rXNcmL8Qe82JKYBw&hl=en]
+
+  Create account
+   --	[https://accounts.google.com/SignUp?continue=http%3A%2F%2Fwww.google.co.in%2F%3Fgfe_rd%3Dcr%26ei%3D9DB9V7rXNcmL8Qe82JKYBw&hl=en]
+
+  About Google
+   --	[https://www.google.com/intl/en/about]
+
+  Privacy
+   --	[https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true]
+
+  Terms
+   --	[https://accounts.google.com/TOS?loc=IN&hl=en]
+
+  Help
+   --	[http://www.google.com/support/accounts?hl=en]
+
+---------Ended Scraping https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.co.in/%3Fgfe_rd%3Dcr%26ei%3D9DB9V7rXNcmL8Qe82JKYBw -------
+
+----------scraping https://play.google.com/?hl=en&tab=w8----------------
+Search --	[https://www.google.co.in/webhp?tab=8w]
+Images --	[http://www.google.co.in/imghp?hl=en&tab=8i]
+Maps --	[https://maps.google.co.in/maps?hl=en&tab=8l]
+YouTube --	[https://www.youtube.com/?tab=81]
+News --	[https://news.google.co.in/nwshp?hl=en&tab=8n]
+Gmail --	[https://mail.google.com/mail/?tab=8m]
+Drive --	[https://drive.google.com/?tab=8o]
+More » --	[https://www.google.co.in/intl/en/options/]
+      Apps    --	[/store/apps]
+ My apps  --	[/apps]
+ Shop  --	[/store/apps]
+ Games  --	[/store/apps/category/GAME]
+ Family  --	[/store/apps/category/FAMILY]
+ Editors' Choice  --	[/store/apps/collection/editors_choice]
+      Movies    --	[/store/movies]
+ My movies  --	[/movies]
+ Shop  --	[/store/movies]
+ Studios  --	[/store/movies/collection/promotion_collections_movie_studios]
+      Books    --	[/store/books]
+ My books  --	[/books]
+ Shop  --	[/store/books]
+ Comics  --	[/store/books/category/coll_1401]
+      Newsstand    --	[/store/newsstand]
+ My newsstand  --	[/newsstand]
+ Shop  --	[/store/newsstand]
+      Devices    --	[/store/devices]
+ Shop  --	[/store/devices]
+       Entertainment    --	[/store]
+ Account  --	[/store/account]
+ My Play activity  --	[/store/myplayactivity]
+ My wishlist  --	[/wishlist]
+ Buy gift card  --	[https://play.google.com/intl/en_in/about/giftcards]
+ Parent Guide  --	[https://support.google.com/googleplay?p=pff_parentguide]
+Settings --	[/settings]
+Android Device Manager --	[https://www.google.com/android/devicemanager?hl=en]
+ --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+    Pre-ordered        --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+  --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+  Up To 80% Off On Books   --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+Last day to go, buy now --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+  --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+   --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+ --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+    Pre-ordered        --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+  --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+     --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+Donâ€™t miss new release hit films --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+  --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+   --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+ --	[/store/books/collection/promotion_10019ab_newrelease_book]
+    Pre-ordered        --	[/store/books/collection/promotion_10019ab_newrelease_book]
+  --	[/store/books/collection/promotion_10019ab_newrelease_book]
+  New Arrival Books   --	[/store/books/collection/promotion_10019ab_newrelease_book]
+Discover fresh titles & read offline --	[/store/books/collection/promotion_10019ab_newrelease_book]
+  --	[/store/books/collection/promotion_10019ab_newrelease_book]
+   --	[/store/books/collection/promotion_10019ab_newrelease_book]
+ --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+    Pre-ordered        --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+  --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+     --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+Click to watch other hit Bollywood movies --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+  --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+   --	[/store/movies/collection/promotion_4000ae3_bollywood_mo_ac]
+Up To 80% Off On Books --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+ See more  --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+Big savings with summer deals --	[/store/books/collection/promotion_10020e9_books_JuneDeals16]
+ --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+  --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+   BHARAT 2016: à¤µà¤¾à¤°à¥�à¤·à¤¿à¤• à¤¸à¤‚à¤¦à¤°à¥�à¤­-à¤—à¥�à¤°à¤‚à¤¥      --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+  --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+   --	[/store/books/details/BHARAT_2016?id=XjfiCwAAQBAJ]
+ --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+  --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+   In Other Words      --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+Jhumpa Lahiri --	[/store/books/author?id=Jhumpa+Lahiri]
+February 1, 2016 --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+  --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+   --	[/store/books/details/Jhumpa_Lahiri_In_Other_Words?id=kNGECwAAQBAJ]
+ --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+  --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+   Today's Pasts: A Memoir      --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+Bhisham Sahni --	[/store/books/author?id=Bhisham+Sahni]
+November 10, 2015 --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+  --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+   --	[/store/books/details/Bhisham_Sahni_Today_s_Pasts?id=vjsHCwAAQBAJ]
+ --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+    Pre-ordered        --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+  --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+   Tamas      --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+Bhisham Sahni --	[/store/books/author?id=Bhisham+Sahni]
+February 15, 2016 --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+  --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+         --	[/store/books/details/Bhisham_Sahni_Tamas?id=GRNcmjvLrgAC]
+ --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+  --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+   Not Out!: The Incredible Story of The Indian Premier League      --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+Desh Gaurav Sekhi --	[/store/books/author?id=Desh+Gaurav+Sekhi]
+April 5, 2016 --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+  --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+   --	[/store/books/details/Desh_Gaurav_Sekhi_Not_Out?id=QZ7OCwAAQBAJ]
+ --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+  --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+   Pandeymonium: Piyush Pandey on Advertising      --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+Piyush Pandey --	[/store/books/author?id=Piyush+Pandey]
+January 27, 2016 --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+  --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+         --	[/store/books/details/Piyush_Pandey_Pandeymonium?id=m7e9CgAAQBAJ]
+ --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+  --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+   The Wedding Photographer      --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+Sakshama Puri Dhariwal --	[/store/books/author?id=Sakshama+Puri+Dhariwal]
+May 1, 2016 --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+  --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+   --	[/store/books/details/Sakshama_Puri_Dhariwal_The_Wedding_Photographer?id=5kcaDAAAQBAJ]
+ --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+  --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+   Bollywood Deception: When death bares a mask of Glamour and Sleaze      --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+Juggi Bhasin --	[/store/books/author?id=Juggi+Bhasin]
+April 11, 2016 --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+  --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+   --	[/store/books/details/Juggi_Bhasin_Bollywood_Deception?id=1Z7OCwAAQBAJ]
+ --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+    Pre-ordered        --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+  --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+   The Pregnant King      --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+Devdutt Pattanaik --	[/store/info/name/Devdutt_Pattanaik?id=03wggnb]
+July 11, 2014 --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+  --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+         --	[/store/books/details/Devdutt_Pattanaik_The_Pregnant_King?id=mhCr8gJeEXcC]
+ --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+  --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+   Shikhandi: and Other Tales They Don't Tell You      --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+Devdutt Pattanaik --	[/store/info/name/Devdutt_Pattanaik?id=03wggnb]
+July 20, 2014 --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+  --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+         --	[/store/books/details/Devdutt_Pattanaik_Shikhandi?id=LZj0AwAAQBAJ]
+Rentals For Only â‚¹25 --	[/store/movies/collection/promotion_4000f9d_rental_price_point_eg_dy]
+ See more  --	[/store/movies/collection/promotion_4000f9d_rental_price_point_eg_dy]
+Movies at rock-bottom prices --	[/store/movies/collection/promotion_4000f9d_rental_price_point_eg_dy]
+ --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+    Pre-ordered         --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+  --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+  The Attacks Of 26/11   --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+Indian Cinema --	[/store/movies/category/18]
+  --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+         --	[/store/movies/details/The_Attacks_Of_26_11?id=gv70tdtOO5k]
+ --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+    Pre-ordered         --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+  --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+  Hate story 2   --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+Indian Cinema --	[/store/movies/category/18]
+  --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+         --	[/store/movies/details/Hate_story_2?id=d9HusI2LOKw]
+ --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+    Pre-ordered         --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+  --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+  Lone Survivor   --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+         --	[/store/movies/details/Lone_Survivor?id=bsJcOdjWH98]
+ --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+    Pre-ordered         --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+  --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+  Intouchables (English dubbed)   --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+         --	[/store/movies/details/Intouchables_English_dubbed?id=NuchOVyG50U]
+ --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+    Pre-ordered         --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+  --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+  Fury   --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+         --	[/store/movies/details/Fury?id=6lZoAVyv5pM]
+ --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+    Pre-ordered         --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+  --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+  The Transporter Refueled   --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+         --	[/store/movies/details/The_Transporter_Refueled?id=mAPbxRFeb64]
+ --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+    Pre-ordered         --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+  --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+  O Kadhal Kanmani   --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+Indian Cinema --	[/store/movies/category/18]
+  --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+         --	[/store/movies/details/O_Kadhal_Kanmani?id=RkA8vRdzhfk]
+ --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+    Pre-ordered         --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+  --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+  Ender's Game   --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+         --	[/store/movies/details/Ender_s_Game?id=6s7hXQHmwQ8]
+ --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+    Pre-ordered         --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+  --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+  Jobs   --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+         --	[/store/movies/details/Jobs?id=MQ0YOiH_NGY]
+ --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+    Pre-ordered         --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+  --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+  Mukhtiar Chadha   --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+Comedy --	[/store/movies/category/4]
+  --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+         --	[/store/movies/details/Mukhtiar_Chadha?id=pelmHNOA3nc]
+Get the Latest --	[/store/newsstand/collection/promotion_6000359_entertainment]
+ See more  --	[/store/newsstand/collection/promotion_6000359_entertainment]
+Entertainment news --	[/store/newsstand/collection/promotion_6000359_entertainment]
+ --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+    Pre-ordered        --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+  --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+  Indiatimes.com   --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+  --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+         --	[/store/newsstand/news/Indiatimes_com?id=CAow4ujcCg]
+ --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+    Pre-ordered        --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+  --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+  Tamil Cinema - IndiaGlitz   --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+  --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+         --	[/store/newsstand/news/Tamil_Cinema_IndiaGlitz?id=CAowjbLeCg]
+ --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+    Pre-ordered        --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+  --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+  FWD Life   --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+  --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+         --	[/store/newsstand/news/FWD_Life?id=CAowm6HeCg]
+ --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+    Pre-ordered        --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+  --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+  Desimartini   --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+  --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+         --	[/store/newsstand/news/Desimartini?id=CAowwufcCg]
+ --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+    Pre-ordered        --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+  --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+  MissMalini.com   --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+  --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+         --	[/store/newsstand/news/MissMalini_com?id=CAow4ufcCg]
+ --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+    Pre-ordered        --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+  --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+  Dork Side of the Force   --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+  --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+         --	[/store/newsstand/news/Dork_Side_of_the_Force?id=CAow5s3SAQ]
+ --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+    Pre-ordered        --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+  --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+  Empire   --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+  --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+         --	[/store/newsstand/details/Empire?id=CAowl9GoBw]
+ --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+    Pre-ordered        --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+  --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+  BuzzFeed   --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+  --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+         --	[/store/newsstand/news/BuzzFeed?id=CAowjJ0R]
+ --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+    Pre-ordered        --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+  --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+  Just Jared   --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+  --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+         --	[/store/newsstand/news/Just_Jared?id=CAowvDk]
+ --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+    Pre-ordered        --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+  --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+  Total Film   --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+  --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+         --	[/store/newsstand/details/Total_Film?id=CAowqtLnAw]
+New Release Hit Films --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+ See more  --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+Catch the latest blockbusters --	[/store/movies/collection/promotion_4000a71_newrelease_mo_eg_ac]
+ --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+    Pre-ordered         --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+  --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+  Batman v Superman: Dawn of Justice (Ultimate Edition)   --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+         --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice_Ultimate_Edition?id=W8zm5Q_pvr0]
+ --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+    Pre-ordered         --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+  --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+  Batman v Superman: Dawn of Justice   --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+         --	[/store/movies/details/Batman_v_Superman_Dawn_of_Justice?id=vsUL6oAMXNY]
+ --	[/store/movies/details/Race?id=M3TatqIg03s]
+    Pre-ordered         --	[/store/movies/details/Race?id=M3TatqIg03s]
+  --	[/store/movies/details/Race?id=M3TatqIg03s]
+  Race   --	[/store/movies/details/Race?id=M3TatqIg03s]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Race?id=M3TatqIg03s]
+         --	[/store/movies/details/Race?id=M3TatqIg03s]
+ --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+    Pre-ordered         --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+  --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+  Bajirao Mastani   --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+         --	[/store/movies/details/Bajirao_Mastani?id=WUAMwN0-OAo]
+ --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+    Pre-ordered         --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+  --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+  Ratter   --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+         --	[/store/movies/details/Ratter?id=G-ZMz8Vp5zQ]
+ --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+    Pre-ordered         --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+  --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+  LEGO DC Super Heroes: Justice League: Gotham City Breakout   --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+Action & Adventure --	[/store/movies/category/1]
+  --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+         --	[/store/movies/details/LEGO_DC_Super_Heroes_Justice_League_Gotham_City_Br?id=c8K3qgpJAUc]
+ --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+    Pre-ordered         --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+  --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+  Eddie The Eagle   --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+Comedy --	[/store/movies/category/4]
+  --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+         --	[/store/movies/details/Eddie_The_Eagle?id=eYs0BDZaQQ4]
+ --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+    Pre-ordered         --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+  --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+  13 Hours: The Secret Soldiers of Benghazi   --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+         --	[/store/movies/details/13_Hours_The_Secret_Soldiers_of_Benghazi?id=tP9sxkTs3Zk]
+ --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+    Pre-ordered         --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+  --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+  Fan   --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+Indian Cinema --	[/store/movies/category/18]
+  --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+         --	[/store/movies/details/Fan?id=LCgcEt5WWDQ]
+ --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+    Pre-ordered         --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+  --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+  Kapoor & Sons (Since 1921)   --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+Drama --	[/store/movies/category/6]
+  --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+         --	[/store/movies/details/Kapoor_Sons_Since_1921?id=8nUJnaKC5fo]
+Read Free Samples Now --	[/store/books/collection/promotion_10011fc_free_preview]
+ See more  --	[/store/books/collection/promotion_10011fc_free_preview]
+Popular books at your fingertips --	[/store/books/collection/promotion_10011fc_free_preview]
+ --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+  --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+   The Girl Who Chose: A New Way of Narrating the Ramayana      --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+Devdutt Pattanaik --	[/store/books/author?id=Devdutt+Pattanaik]
+July 1, 2016 --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+  --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+   --	[/store/books/details/Devdutt_Pattanaik_The_Girl_Who_Chose?id=9bl8DAAAQBAJ]
+ --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+  --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+   Half - Lion: How P.V. Narasimha Rao Transformed India      --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+Vinay Sitapati --	[/store/books/author?id=Vinay+Sitapati]
+June 27, 2016 --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+  --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+   --	[/store/books/details/Vinay_Sitapati_Half_Lion?id=R2yCDAAAQBAJ]
+ --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+  --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+   The Gene: An Intimate History      --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+Siddhartha Mukherjee --	[/store/books/author?id=Siddhartha+Mukherjee]
+May 17, 2016 --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+  --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+   --	[/store/books/details/Siddhartha_Mukherjee_The_Gene?id=A8syDAAAQBAJ]
+ --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+  --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+   A Life in Diplomacy      --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+Maharajakrishna Rasgotra --	[/store/books/author?id=Maharajakrishna+Rasgotra]
+April 28, 2016 --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+  --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+   --	[/store/books/details/Maharajakrishna_Rasgotra_A_Life_in_Diplomacy?id=X8YeDAAAQBAJ]
+ --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+  --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+   Steet SignÂ®: Volume - 1      --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+Krishna Attri & Many Others --	[/store/books/author?id=Krishna+Attri+%26+Many+Others]
+June 28, 2016 --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+  --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+   --	[/store/books/details/Krishna_Attri_Many_Others_Steet_Sign?id=DV6MDAAAQBAJ]
+ --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+  --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+   Pregnancy and You: Plan, Prepare Push!      --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+Dr. Duru Shah --	[/store/books/author?id=Dr.+Duru+Shah]
+May 23, 2016 --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+  --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+   --	[/store/books/details/Dr_Duru_Shah_Pregnancy_and_You?id=uyo2DAAAQBAJ]
+ --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+    Pre-ordered        --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+  --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+   Tumhare Sapne Hue Apne: (Hindi Edition)      --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+Ravinder Singh --	[/store/info/name/Ravinder_Singh?id=0hr3gwm]
+November 20, 2014 --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+  --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+         --	[/store/books/details/Ravinder_Singh_Tumhare_Sapne_Hue_Apne?id=8HmQBQAAQBAJ]
+ --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+    Pre-ordered        --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+  --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+   The Fault in Our Stars      --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+John Green --	[/store/info/name/John_Green?id=0g3dws]
+May 3, 2012 --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+  --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+         --	[/store/books/details/John_Green_The_Fault_in_Our_Stars?id=Qk8n0olOX5MC]
+ --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+    Pre-ordered        --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+  --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+   Fifty Shades of Grey      --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+E L James --	[/store/info/name/E_L_James?id=0j49kcv]
+March 19, 2012 --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+  --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+         --	[/store/books/details/E_L_James_Fifty_Shades_of_Grey?id=ExguqMV2WaMC]
+ --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+    Pre-ordered        --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+  --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+   I Too Had a Love Story      --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+Ravinder Singh --	[/store/info/name/Ravinder_Singh?id=0hr3gwm]
+November 15, 2012 --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+  --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+         --	[/store/books/details/Ravinder_Singh_I_Too_Had_a_Love_Story?id=04IlDD3rXjAC]
+ Site Terms of Service --	[https://play.google.com/intl/en_in/about/play-terms.html]
+ Privacy Policy --	[http://www.google.com/intl/en_in/policies/privacy/]
+ Developers --	[http://developer.android.com/index.html]
+ About Google --	[https://support.google.com/googleplay/?p=about_play]
+ Terms of Service  --	[https://payments.google.com/termsOfService?hl=en]
+ Privacy Notice  --	[https://payments.google.com/legaldocument?family=0.privacynotice&hl=en]
+
+---------Ended Scraping https://play.google.com/?hl=en&tab=w8 -------
+
+----------scraping https://mail.google.com/mail/?tab=wm----------------
+
+  Need help?
+   --	[https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&ignoreShadow=0&hl=en]
+
+  Sign in with a different account
+   --	[https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&hl=en&service=mail&scc=1]
+
+  Create account
+   --	[https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm&ltmpl=default]
+
+  About Google
+   --	[https://www.google.com/intl/en/about]
+
+  Privacy
+   --	[https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true]
+
+  Terms
+   --	[https://accounts.google.com/TOS?loc=IN&hl=en]
+
+  Help
+   --	[http://www.google.com/support/accounts?hl=en]
+
+---------Ended Scraping https://mail.google.com/mail/?tab=wm -------
+
+----------scraping https://drive.google.com/?tab=wo----------------
+
+---------Ended Scraping https://drive.google.com/?tab=wo -------
+
+----------scraping https://plus.google.com/104205742743787718296----------------
+Search --	[https://www.google.co.in/webhp?tab=Xw]
+Images --	[http://www.google.co.in/imghp?hl=en-GB&tab=Xi]
+Maps --	[https://maps.google.co.in/maps?hl=en-GB&tab=Xl]
+Play --	[https://play.google.com/?hl=en-GB&tab=X8]
+YouTube --	[https://www.youtube.com/?tab=X1]
+Gmail --	[https://mail.google.com/mail/?tab=Xm]
+Drive --	[https://drive.google.com/?tab=Xo]
+Calendar --	[https://www.google.com/calendar?tab=Xc]
+More » --	[https://www.google.co.in/intl/en-GB/options/]
+Send Feedback --	[http://www.google.com/intl/en_uk/+/learnmore/forum/]
+Web History --	[http://www.google.co.in/history/optout?hl=en-GB]
+Help --	[https://www.google.com/support/profiles/?p=help_center&hl=en-GB]
+Sign in --	[https://accounts.google.com/ServiceLogin?service=oz&passive=1209600&continue=https://plus.google.com/%2BGoogleIndia?gpsrc%3Dgplp0]
+ --	[/stream]
+Home --	[/stream]
+Profile --	[/me]
+People --	[/people]
+Collections --	[/collections]
+What's hot --	[/explore]
+Communities --	[/communities]
+Events --	[/events]
+Hangouts --	[/hangouts?n=1]
+Pages --	[/dashboard?ppsrc=gpnv0]
+Settings --	[/settings/plus]
+Privacy --	[https://www.google.com/intl/en_uk/+/policy/]
+Terms --	[https://www.google.com/intl/en_uk/+/policy/content.html]
+Maps Terms --	[https://www.google.com/intl/en_uk/help/terms_maps.html]
+www.google.co.in --	[http://www.google.co.in]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-01-22 --	[+GoogleIndia/posts/GMx174UTkCi]
+#RailWire --	[/s/%23RailWire]
+ --	[photos/104205742743787718296/albums/6242851059542716241/6242851057839248690]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./111431923026707279919]
+mani kanta --	[./111431923026707279919]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-03-10 --	[+GoogleIndia/posts/3PsWfzP6JFi]
+#CricketWithGoogle --	[/s/%23CricketWithGoogle]
+ --	[photos/104205742743787718296/albums/6260697215985838369/6260697221610607282]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./105795202796981934394]
+Rio Rabin --	[./105795202796981934394]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-02-04 --	[+GoogleIndia/posts/jQdwrs1xUVR]
+https://goo.gl/hK5UEw --	[https://goo.gl/hK5UEw]
+#AdMobSAC16 --	[/s/%23AdMobSAC16]
+ --	[photos/104205742743787718296/albums/6247390888889499521/6247390889432830434]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./104425977676132076475]
+Arvind Bhadja --	[./104425977676132076475]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-01-22 --	[+GoogleIndia/posts/Xj9q2ahrihQ]
+#RailWire --	[/s/%23RailWire]
+https://goo.gl/DiQsSw --	[https://goo.gl/DiQsSw]
+Launch of Fast WiFi for all at Mumbai Central Railway Station --	[https://goo.gl/DiQsSw]
+ --	[./116154292998945507467]
+Tech Beamers --	[./116154292998945507467]
+India In A Day --	[communities/108654433310098880870]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-01-17 --	[+GoogleIndia/posts/CBM2fe1AHm8]
+#IndiaInADay --	[/s/%23IndiaInADay]
+India In A Day (2016) - First Look --	[https://www.youtube.com/watch?v=-0O11qq4j24&feature=youtu.be]
+ --	[./113325296070103925646]
+Abhishek Joshi --	[./113325296070103925646]
+Google India --	[/104205742743787718296]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2015-12-24 --	[+GoogleIndia/posts/Rpyvy2fdJ2x]
+g.co/translatathon --	[http://g.co/translatathon]
+ --	[photos/104205742743787718296/albums/6231771749174849457/6231771751929448082]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./112646178377639315023]
+Daniel Mendoza --	[./112646178377639315023]
+ --	[./102725299986048648043]
+ --	[./106579710617625422643]
+ --	[./103969599469778440432]
+ --	[./109174816204932559628]
+ --	[./115791202610561438437]
+ --	[./112837906454412019765]
+ --	[./117952694404952279520]
+ --	[./117983069416085037542]
+ --	[./112792063212006415121]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-03-14 --	[+GoogleIndia/posts/3arJjT6qLZU]
+#CricketWithGoogle --	[/s/%23CricketWithGoogle]
+ --	[photos/104205742743787718296/albums/6261806616253626193/6261806621150600626]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./101179617971869831395]
+Rajo  Kumar --	[./101179617971869831395]
+India In A Day --	[communities/108654433310098880870]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-02-05 --	[+GoogleIndia/posts/iUAprV7etX6]
+#IndiaInADay --	[/s/%23IndiaInADay]
+India In A Day (2016) - First Look --	[https://www.youtube.com/watch?v=-0O11qq4j24]
+ --	[./113325296070103925646]
+Abhishek Joshi --	[./113325296070103925646]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-01-23 --	[+GoogleIndia/posts/51B5RxZFcck]
+#RailWire --	[/s/%23RailWire]
+ --	[photos/104205742743787718296/albums/6242959382719847409/6242959382299180498]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./108760599537522054268]
+Bala Murugan --	[./108760599537522054268]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2016-01-22 --	[+GoogleIndia/posts/gg4VeJukjQZ]
+#RailWire --	[/s/%23RailWire]
+http://goo.gl/gKpnBf --	[http://goo.gl/gKpnBf]
+ --	[http://goo.gl/gKpnBf]
+Waiting for your train in Mumbai? How about streaming some HD videos while you wait --	[http://goo.gl/gKpnBf]
+goo.gl --	[http://goo.gl/gKpnBf]
+ --	[./103168129761521223924]
+rajendra prasad --	[./103168129761521223924]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2015-12-27 --	[+GoogleIndia/posts/ihv22hyQCPz]
+g.co/translatathon --	[http://g.co/translatathon]
+ --	[photos/104205742743787718296/albums/6232916091723694865/6232916097034356674]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./112454390066183416804]
+Ojiekhodion Olohunwa Friday --	[./112454390066183416804]
+ --	[./104205742743787718296]
+Google India --	[./104205742743787718296]
+2015-12-23 --	[+GoogleIndia/posts/F7Vv4DF1DJ9]
+g.co/translatathon --	[http://g.co/translatathon]
+ --	[photos/104205742743787718296/albums/6231449625886903969/6231449632870803026]
+Google India's photos --	[photos/104205742743787718296]
+ --	[./103986600574392524539]
+Animeshwar Kaur --	[./103986600574392524539]
+ --	[./102725299986048648043]
+ --	[./106579710617625422643]
+ --	[./103969599469778440432]
+ --	[./109174816204932559628]
+ --	[./115791202610561438437]
+ --	[./112837906454412019765]
+ --	[./117952694404952279520]
+ --	[./117983069416085037542]
+ --	[./112792063212006415121]
+www.google.co.in --	[http://www.google.co.in]
+Google India --	[http://www.youtube.com/user/googleindia]
+Google India YouTube Channel --	[http://www.youtube.com/user/googleindia?ob=0]
+Official Google India Blog --	[http://googleindia.blogspot.in/]
+@Googleindia --	[http://twitter.com/googleindia]
+Press --	[http://www.google.co.in/press/]
+Help centre --	[http://www.google.com/support/]
+
+---------Ended Scraping https://plus.google.com/104205742743787718296 -------
+
+----------scraping https://www.google.co.in/intl/en/options/----------------
+
+      
+      --	[//www.google.com/]
+
+      About Google
+      --	[../]
+
+      Show me how
+      --	[https://support.google.com/accounts/?p=google_bar]
+
+       
+       --	[//www.google.com/intl/en/insidesearch/]
+
+        Web Search
+        --	[//www.google.com/intl/en/insidesearch/]
+
+       
+       --	[/chrome?hl=en&brand=CHMI]
+
+        Google Chrome
+        --	[/chrome?hl=en&brand=CHMI]
+
+       
+       --	[http://toolbar.google.com/intl/en/]
+
+        Toolbar
+        --	[http://toolbar.google.com/intl/en/]
+
+       
+       --	[/bookmarks/]
+
+        Bookmarks
+        --	[/bookmarks/]
+
+       
+       --	[/mobile/]
+
+        Mobile
+        --	[/mobile/]
+
+       
+       --	[/mobile/maps/]
+
+        Maps for mobile
+        --	[/mobile/maps/]
+
+       
+       --	[/mobile/search/]
+
+        Search for mobile
+        --	[/mobile/search/]
+
+       
+       --	[/intl/en/adwords/start/?channel=et-product_page?sourceid=awo&subid=in-ww-et-about-products]
+
+        AdWords
+        --	[/intl/en/adwords/start/?channel=et-product_page?sourceid=awo&subid=in-ww-et-about-products]
+
+       
+       --	[https://www.google.com/intx/en_in/enterprise/apps/business/index.html?utm_source=google_products&utm_medium=et&utm_campaign=smb_apps]
+
+        Google Apps for Work
+        --	[https://www.google.com/intx/en_in/enterprise/apps/business/index.html?utm_source=google_products&utm_medium=et&utm_campaign=smb_apps]
+
+       
+       --	[https://www.google.co.in/business/?gmbsrc=in-en-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=in-en-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et]
+
+        Google My Business
+        --	[https://www.google.co.in/business/?gmbsrc=in-en-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=in-en-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et]
+
+       
+       --	[//www.google.co.in/intl/en/adsense/start/?sourceid=ads&subid=ww-ww-et-about-products&utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr]
+
+        AdSense
+        --	[//www.google.co.in/intl/en/adsense/start/?sourceid=ads&subid=ww-ww-et-about-products&utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr]
+
+       
+       --	[//www.google.co.in/intl/en/admob/?subid=ww-ww-et-about-products&utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon]
+
+        AdMob
+        --	[//www.google.co.in/intl/en/admob/?subid=ww-ww-et-about-products&utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon]
+
+       
+       --	[//www.youtube.com/]
+
+        YouTube
+        --	[//www.youtube.com/]
+
+       
+       --	[//books.google.co.in/books?hl=en]
+
+        Books
+        --	[//books.google.co.in/books?hl=en]
+
+       
+       --	[//images.google.co.in/imghp?hl=en]
+
+        Image Search
+        --	[//images.google.co.in/imghp?hl=en]
+
+       
+       --	[//news.google.co.in/nwshp?hl=en]
+
+        News
+        --	[//news.google.co.in/nwshp?hl=en]
+
+       
+       --	[//video.google.co.in/?hl=en]
+
+        Video Search
+        --	[//video.google.co.in/?hl=en]
+
+       
+       --	[https://photos.google.com]
+
+        Google Photos
+        --	[https://photos.google.com]
+
+       
+       --	[//picasa.google.co.in/intl/en/#utm_source=en-all-more&utm_campaign=en-pic&utm_medium=et]
+
+        Picasa
+        --	[//picasa.google.co.in/intl/en/#utm_source=en-all-more&utm_campaign=en-pic&utm_medium=et]
+
+       
+       --	[//www.google.com/get/cardboard/]
+
+        Google Cardboard
+        --	[//www.google.com/get/cardboard/]
+
+       
+       --	[//maps.google.co.in/?hl=en]
+
+        Maps
+        --	[//maps.google.co.in/?hl=en]
+
+       
+       --	[//www.google.co.in/intl/en/earth/]
+
+        Earth
+        --	[//www.google.co.in/intl/en/earth/]
+
+       
+       --	[http://www.panoramio.com/]
+
+        Panoramio
+        --	[http://www.panoramio.com/]
+
+       
+       --	[/coop/cse/?hlen]
+
+        Custom Search
+        --	[/coop/cse/?hlen]
+
+       
+       --	[//scholar.google.com/?hl=en]
+
+        Scholar
+        --	[//scholar.google.com/?hl=en]
+
+       
+       --	[/trends/?hl=en]
+
+        Trends
+        --	[/trends/?hl=en]
+
+       
+       --	[//www.google.com/intl/en/mail/help/about.html#utm_source=en-et-more&utm_medium=et&utm_campaign=en]
+
+        Gmail
+        --	[//www.google.com/intl/en/mail/help/about.html#utm_source=en-et-more&utm_medium=et&utm_campaign=en]
+
+       
+       --	[/drive/?utm_medium=et&utm_source=about&utm_campaign=et-about]
+
+        Drive
+        --	[/drive/?utm_medium=et&utm_source=about&utm_campaign=et-about]
+
+       
+       --	[//docs.google.com/document?usp=about_products]
+
+        Docs
+        --	[//docs.google.com/document?usp=about_products]
+
+       
+       --	[//docs.google.com/spreadsheets?usp=about_products]
+
+        Sheets
+        --	[//docs.google.com/spreadsheets?usp=about_products]
+
+       
+       --	[//docs.google.com/presentation?usp=about_products]
+
+        Slides
+        --	[//docs.google.com/presentation?usp=about_products]
+
+       
+       --	[//docs.google.com/forms/create?usp=about_productspage&authuser=0]
+
+        Forms
+        --	[//docs.google.com/forms/create?usp=about_productspage&authuser=0]
+
+       
+       --	[//docs.google.com/drawings/create?usp=about_products&authuser=0]
+
+        Drawings
+        --	[//docs.google.com/drawings/create?usp=about_products&authuser=0]
+
+       
+       --	[//sites.google.com]
+
+        Sites
+        --	[//sites.google.com]
+
+       
+       --	[//www.google.com/calendar/render?hl=en]
+
+        Calendar
+        --	[//www.google.com/calendar/render?hl=en]
+
+       
+       --	[//translate.google.co.in/?hl=en]
+
+        Translate
+        --	[//translate.google.co.in/?hl=en]
+
+       
+       --	[//www.google.com/cloudprint/learn/?hl=en]
+
+        Google Cloud Print
+        --	[//www.google.com/cloudprint/learn/?hl=en]
+
+       
+       --	[//keep.google.com]
+
+        Google Keep
+        --	[//keep.google.com]
+
+       
+       --	[https://store.google.com/?hl=en&utm_source=SE&utm_medium=AGP&utm_campaign=HP]
+
+        Google Store
+        --	[https://store.google.com/?hl=en&utm_source=SE&utm_medium=AGP&utm_campaign=HP]
+
+       
+       --	[https://plus.google.com/?utm_source=embedded&utm_medium=googleabout&utm_campaign=link]
+
+        Google+
+        --	[https://plus.google.com/?utm_source=embedded&utm_medium=googleabout&utm_campaign=link]
+
+       
+       --	[//www.blogger.com/start?hl=en]
+
+        Blogger
+        --	[//www.blogger.com/start?hl=en]
+
+       
+       --	[//groups.google.com/grphp?hl=en]
+
+        Groups
+        --	[//groups.google.com/grphp?hl=en]
+
+       
+       --	[/hangouts/]
+
+        Hangouts
+        --	[/hangouts/]
+
+        Company
+        --	[../../about/company/]
+
+          Who we are
+          --	[../../about/company/facts/]
+
+          What we believe
+          --	[../../about/company/philosophy/]
+
+          What we do
+          --	[../../about/company/products/]
+
+        News
+        --	[../../press/]
+
+          Images and B-roll
+          --	[../../press/images.html]
+
+          Blogs and Social Media
+          --	[../../press/blog-social-directory.html]
+
+        Careers
+        --	[../../about/careers/]
+
+          Search all jobs
+          --	[../../about/careers/search/]
+
+          Office locations
+          --	[../../about/careers/locations/]
+
+          Teams and Roles
+          --	[../../about/careers/teams/]
+
+          Life at Google
+          --	[../../about/careers/lifeatgoogle/]
+
+        Investor relations
+        --	[//investor.google.com/]
+
+          News and events
+          --	[//investor.google.com/releases.html]
+
+          Financial information
+          --	[//investor.google.com/earnings.html]
+
+          Corporate governance
+          --	[//investor.google.com/corporate/message.html]
+
+        Contact us
+        --	[../../contact/]
+
+        Google
+        --	[/]
+
+        About Google
+        --	[/intl/en/about/]
+
+        Privacy & Terms
+        --	[/intl/en/policies/]
+
+---------Ended Scraping https://www.google.co.in/intl/en/options/ -------
